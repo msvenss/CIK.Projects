@@ -6,3 +6,11 @@ C:\dev\codeisking\TextManipulator\TextManipulator\bin\Debug\TextManipulator.Core
 C:\dev\codeisking\TextManipulator\TextManipulator\obj\Debug\TextManipulator.csprojResolveAssemblyReference.cache
 C:\dev\codeisking\TextManipulator\TextManipulator\obj\Debug\TextManipulator.exe
 C:\dev\codeisking\TextManipulator\TextManipulator\obj\Debug\TextManipulator.pdb
+C:\dev\CIK.Projects\TextManipulator\TextManipulator\bin\Debug\TextManipulator.exe.config
+C:\dev\CIK.Projects\TextManipulator\TextManipulator\obj\Debug\TextManipulator.exe
+C:\dev\CIK.Projects\TextManipulator\TextManipulator\obj\Debug\TextManipulator.pdb
+C:\dev\CIK.Projects\TextManipulator\TextManipulator\bin\Debug\TextManipulator.exe
+C:\dev\CIK.Projects\TextManipulator\TextManipulator\bin\Debug\TextManipulator.pdb
+C:\dev\CIK.Projects\TextManipulator\TextManipulator\bin\Debug\TextManipulator.Core.dll
+C:\dev\CIK.Projects\TextManipulator\TextManipulator\bin\Debug\TextManipulator.Core.pdb
+C:\dev\CIK.Projects\TextManipulator\TextManipulator\obj\Debug\TextManipulator.csprojResolveAssemblyReference.cache

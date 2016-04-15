@@ -12,7 +12,7 @@ namespace TextManipulator.Core.ReadText
        public string Read()
 
         {
-            StreamReader reader = new StreamReader(@"C:\dev\codeisking\TextManipulator\TextManipulator.Core\ReadText\Textfiles\TextTextManipulator.txt", System.Text.Encoding.Default);
+            StreamReader reader = new StreamReader(@"C:\dev\CIK.Projects\TextManipulator\TextManipulator.Core\ReadText\Textfiles\TextTextManipulator.txt", System.Text.Encoding.Default);
             return reader.ReadToEnd();
         }
     }
