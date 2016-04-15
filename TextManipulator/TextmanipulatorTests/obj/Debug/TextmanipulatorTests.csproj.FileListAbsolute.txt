@@ -1,0 +1,15 @@
+C:\dev\codeisking\TextManipulator\TextmanipulatorTests\bin\Debug\TextmanipulatorTests.dll
+C:\dev\codeisking\TextManipulator\TextmanipulatorTests\bin\Debug\TextmanipulatorTests.pdb
+C:\dev\codeisking\TextManipulator\TextmanipulatorTests\bin\Debug\FluentAssertions.Core.dll
+C:\dev\codeisking\TextManipulator\TextmanipulatorTests\bin\Debug\FluentAssertions.dll
+C:\dev\codeisking\TextManipulator\TextmanipulatorTests\bin\Debug\nunit.framework.dll
+C:\dev\codeisking\TextManipulator\TextmanipulatorTests\bin\Debug\TextManipulator.Core.dll
+C:\dev\codeisking\TextManipulator\TextmanipulatorTests\bin\Debug\TextManipulator.Core.pdb
+C:\dev\codeisking\TextManipulator\TextmanipulatorTests\bin\Debug\FluentAssertions.pdb
+C:\dev\codeisking\TextManipulator\TextmanipulatorTests\bin\Debug\FluentAssertions.xml
+C:\dev\codeisking\TextManipulator\TextmanipulatorTests\bin\Debug\FluentAssertions.Core.pdb
+C:\dev\codeisking\TextManipulator\TextmanipulatorTests\bin\Debug\FluentAssertions.Core.xml
+C:\dev\codeisking\TextManipulator\TextmanipulatorTests\bin\Debug\nunit.framework.xml
+C:\dev\codeisking\TextManipulator\TextmanipulatorTests\obj\Debug\TextmanipulatorTests.csprojResolveAssemblyReference.cache
+C:\dev\codeisking\TextManipulator\TextmanipulatorTests\obj\Debug\TextmanipulatorTests.dll
+C:\dev\codeisking\TextManipulator\TextmanipulatorTests\obj\Debug\TextmanipulatorTests.pdb

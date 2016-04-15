@@ -1,0 +1,5 @@
+C:\dev\codeisking\TextManipulator\TextManipulator.Core\bin\Debug\TextManipulator.Core.dll
+C:\dev\codeisking\TextManipulator\TextManipulator.Core\bin\Debug\TextManipulator.Core.pdb
+C:\dev\codeisking\TextManipulator\TextManipulator.Core\obj\Debug\TextManipulator.Core.csprojResolveAssemblyReference.cache
+C:\dev\codeisking\TextManipulator\TextManipulator.Core\obj\Debug\TextManipulator.Core.dll
+C:\dev\codeisking\TextManipulator\TextManipulator.Core\obj\Debug\TextManipulator.Core.pdb
