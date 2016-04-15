@@ -1,5 +1,0 @@
-C:\dev\CIK-Movies\CIK.MovieProject\CIK.MovieProject\bin\Debug\CIK.MovieProject.dll
-C:\dev\CIK-Movies\CIK.MovieProject\CIK.MovieProject\bin\Debug\CIK.MovieProject.pdb
-C:\dev\CIK-Movies\CIK.MovieProject\CIK.MovieProject\obj\Debug\CIK.MovieProject.Core.csprojResolveAssemblyReference.cache
-C:\dev\CIK-Movies\CIK.MovieProject\CIK.MovieProject\obj\Debug\CIK.MovieProject.dll
-C:\dev\CIK-Movies\CIK.MovieProject\CIK.MovieProject\obj\Debug\CIK.MovieProject.pdb
